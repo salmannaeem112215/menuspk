@@ -1,2 +1,0 @@
-/ /index.html 200
-/:name/* /websites/:name/index.html 200
