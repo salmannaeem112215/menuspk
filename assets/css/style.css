@@ -1236,6 +1236,7 @@ body {
   .app :is(.section-title, .section-text) { text-align: left; }
 
   .app .section-title { --fs-2: 4rem; }
+  
 
   .app .btn-group { justify-content: flex-start; }
 
